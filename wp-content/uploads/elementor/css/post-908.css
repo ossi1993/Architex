@@ -1,11 +1,9 @@
-.elementor-908 .elementor-element.elementor-element-3vfx5aa:not(.elementor-motion-effects-element-type-background), .elementor-908 .elementor-element.elementor-element-3vfx5aa > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://ossi1993.github.io/Architex/wp-content/uploads/2019/12/home-banner.jpg");background-position: center right;background-repeat: no-repeat;background-size: cover;}
+.elementor-908 .elementor-element.elementor-element-3vfx5aa:not(.elementor-motion-effects-element-type-background), .elementor-908 .elementor-element.elementor-element-3vfx5aa > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://ossi1993.github.io/Architex/wp-content/uploads/2019/12/building-1.jpeg");background-position: center right;background-repeat: no-repeat;background-size: cover;}
 .elementor-908 .elementor-element.elementor-element-3vfx5aa > .elementor-background-overlay {background-color: #fff;opacity: 0;transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-908 .elementor-element.elementor-element-3vfx5aa {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 250px 0px 250px 0px;}
-.elementor-908 .elementor-element.elementor-element-z8p9dzo .elementor-text-editor {text-align: left;}
-.elementor-908 .elementor-element.elementor-element-z8p9dzo {color: #000;font-size: 1em;font-weight: 600;line-height: 2em;letter-spacing: 4px;}
 .elementor-908 .elementor-element.elementor-element-xpld4o6 {text-align: left;}
 .elementor-908 .elementor-element.elementor-element-xpld4o6.elementor-widget-heading .elementor-heading-title {color: #434343;}
-.elementor-908 .elementor-element.elementor-element-xpld4o6 .elementor-heading-title {font-family: "Rubik",Sans-serif;font-size: 4em;font-weight: 700;letter-spacing: 0px;}
+.elementor-908 .elementor-element.elementor-element-xpld4o6 .elementor-heading-title {font-family: "Pavanam",Sans-serif;font-size: 6em;font-weight: 700;letter-spacing: 0px;}
 .elementor-908 .elementor-element.elementor-element-1d3k1wu .elementor-text-editor {text-align: left;}
 .elementor-908 .elementor-element.elementor-element-1d3k1wu {color: #434343;font-size: 1em;font-weight: 400;line-height: 2em;letter-spacing: 0px;}
 .elementor-908 .elementor-element.elementor-element-5vfkhnn .elementor-spacer-inner {height: 5px;}
@@ -241,7 +239,6 @@
 body.elementor-page-908:not(.elementor-motion-effects-element-type-background), body.elementor-page-908 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 @media (max-width:1024px) {.elementor-908 .elementor-element.elementor-element-3vfx5aa {margin-top: 0px;margin-bottom: 0px;padding: 20px 0px 20px 0px;}
 	.elementor-908 .elementor-element.elementor-element-h991bof > .elementor-element-populated {padding: 20px 20px 20px 20px;}
-	.elementor-908 .elementor-element.elementor-element-z8p9dzo .elementor-text-editor {text-align: left;}
 	.elementor-908 .elementor-element.elementor-element-xpld4o6 {text-align: left;}
 	.elementor-908 .elementor-element.elementor-element-xpld4o6 .elementor-heading-title {font-size: 3em;}
 	.elementor-908 .elementor-element.elementor-element-1d3k1wu .elementor-text-editor {text-align: left;}
@@ -273,7 +270,6 @@ body.elementor-page-908:not(.elementor-motion-effects-element-type-background), 
 	.elementor-908 .elementor-element.elementor-element-dli9apk > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}
 	.elementor-908 .elementor-element.elementor-element-tx182f6 > .elementor-element-populated {padding: 0px 0px 0px 0px;}}
 @media (max-width:767px) {.elementor-908 .elementor-element.elementor-element-3vfx5aa {margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
-	.elementor-908 .elementor-element.elementor-element-z8p9dzo .elementor-text-editor {text-align: center;}
 	.elementor-908 .elementor-element.elementor-element-xpld4o6 {text-align: center;}
 	.elementor-908 .elementor-element.elementor-element-xpld4o6 .elementor-heading-title {font-size: 4em;}
 	.elementor-908 .elementor-element.elementor-element-1d3k1wu .elementor-text-editor {text-align: center;}
